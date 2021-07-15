@@ -17,5 +17,5 @@ In this example, some help prompts have been modified to make it easier for user
 
 USRP N310 operating status
 When the red light is on, it means that the channel is activated and in the running state
+![image](https://user-images.githubusercontent.com/61801817/125753626-cc90cc5b-1c08-4b21-8c91-ab12cc187f55.png)
 
-![Uploading image.png…]()
